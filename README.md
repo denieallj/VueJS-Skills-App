@@ -1,4 +1,4 @@
-# skill-app
+# Vue JS Skills App
 
 ## Project setup
 ```
@@ -10,20 +10,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Screenshot
+<img src="https://github.com/denieallj/VueJS-Skills-App/blob/master/Screenshot.jpg" />
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
